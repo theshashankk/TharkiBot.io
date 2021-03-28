@@ -38,5 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ## Social media network
-[Discord Server](https://discord.gg/qB7cvk5p)
-[Telegram](https://t.me/TheShashank)
+🤖[Discord Server](https://discord.gg/qB7cvk5p)
+
+👩‍💻[Telegram](https://t.me/TheShashank)
